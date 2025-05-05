@@ -12,20 +12,48 @@ I’ve been working with data analysis and automation processes since 2020 in th
 * 🧠  I'm learning Engineering and Data Analysis
 * 🤝  I'm open to collaborating on ML projects
 
-### Skills
-
+### 🚀 Skills
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
 </p>
 
+### 🌐 Socials
 
-### Socials
+<p align="left">
+  <a href="https://github.com/Alves-Eduarda" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/maria-eduarda-alves-da-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="http://www.medium.com/@alves_eduarda" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://www.github.com/Alves-Eduarda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/maria-eduarda-alves-da-silva/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@alves_eduarda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+### 🏅 Badges
 
-### Badges
+**Top Repositories**
 
-<b>Top Repositories</b>
+<div align="center">
+  <a href="https://github.com/Alves-Eduarda/modelos">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alves-Eduarda&repo=modelos&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Alves-Eduarda/dax">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alves-Eduarda&repo=dax&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/Alves-Eduarda/modelos" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alves-Eduarda&repo=modelos&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Alves-Eduarda/dax" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Alves-Eduarda&repo=dax&title_color=ffffff&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
