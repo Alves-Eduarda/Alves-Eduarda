@@ -29,6 +29,7 @@ I’ve been working with data analysis and automation processes since 2020 in th
 <b>Top Repositories</b>
 
 <div align="center">
-  <a href="https://github.com/Alves-Eduarda/modelos">📂 Modelos</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Alves-Eduarda/projetos">📂 Projetos de Engenharia e Análise de dados</a>
+  <a href="https://github.com/Alves-Eduarda/modelos">📂 Estudos</a> &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/Alves-Eduarda/dax">📂 DAX</a>
 </div>
